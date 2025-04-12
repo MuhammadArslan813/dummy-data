@@ -1,0 +1,6 @@
+user_id,user_name,email,product_id,product_name,category,price,purchase_date
+u1,Alice,alice@example.com,p1,Banana,Fruit,0.99,2024-03-10
+u1,Alice,alice@example.com,p2,Shampoo,Personal Care,4.5,2024-03-11
+u2,Bob,bob@example.com,p3,Milk,Dairy,1.25,2024-03-10
+u3,Charlie,charlie@example.com,p4,Laptop,Electronics,899.0,2024-03-15
+u2,Bob,bob@example.com,p5,Bread,Bakery,1.1,2024-03-18
