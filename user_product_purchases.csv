@@ -4,3 +4,9 @@ u1,Alice,alice@example.com,p2,Shampoo,Personal Care,4.5,2024-03-11
 u2,Bob,bob@example.com,p3,Milk,Dairy,1.25,2024-03-10
 u3,Charlie,charlie@example.com,p4,Laptop,Electronics,899.0,2024-03-15
 u2,Bob,bob@example.com,p5,Bread,Bakery,1.1,2024-03-18
+u4,Arslan,arslan@example.com,p6,Orange,Fruit,1.2,2024-03-19
+u4,Arslan,arslan@example.com,p7,Body Wash,Personal Care,5.0,2024-03-21
+u5,Shan,shan@example.com,p8,Yogurt,Dairy,1.5,2024-03-20
+u5,Shan,shan@example.com,p9,Mouse,Electronics,15.0,2024-03-23
+u6,Ali,ali@example.com,p10,Donut,Bakery,1.25,2024-03-22
+u6,Ali,ali@example.com,p11,Apple,Fruit,1.1,2024-03-24
