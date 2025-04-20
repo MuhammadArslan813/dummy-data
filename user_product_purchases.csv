@@ -1,12 +1,43 @@
 user_id,user_name,email,product_id,product_name,category,price,purchase_date
 u1,Alice,alice@example.com,p1,Banana,Fruit,0.99,2024-03-10
 u1,Alice,alice@example.com,p2,Shampoo,Personal Care,4.5,2024-03-11
-u2,Bob,bob@example.com,p3,Milk,Dairy,1.25,2024-03-10
-u3,Charlie,charlie@example.com,p4,Laptop,Electronics,899.0,2024-03-15
-u2,Bob,bob@example.com,p5,Bread,Bakery,1.1,2024-03-18
-u4,Arslan,arslan@example.com,p6,Orange,Fruit,1.2,2024-03-19
-u4,Arslan,arslan@example.com,p7,Body Wash,Personal Care,5.0,2024-03-21
-u5,Shan,shan@example.com,p8,Yogurt,Dairy,1.5,2024-03-20
-u5,Shan,shan@example.com,p9,Mouse,Electronics,15.0,2024-03-23
-u6,Ali,ali@example.com,p10,Donut,Bakery,1.25,2024-03-22
-u6,Ali,ali@example.com,p11,Apple,Fruit,1.1,2024-03-24
+u1,Alice,alice@example.com,p3,Milk,Dairy,1.25,2024-03-12
+u2,Bob,bob@example.com,p4,Laptop,Electronics,899.0,2024-03-13
+u2,Bob,bob@example.com,p5,Bread,Bakery,1.1,2024-03-14
+u3,Charlie,charlie@example.com,p6,Orange,Fruit,1.2,2024-03-15
+u3,Charlie,charlie@example.com,p7,Body Wash,Personal Care,5.0,2024-03-16
+u3,Charlie,charlie@example.com,p8,Yogurt,Dairy,1.5,2024-03-17
+u4,Diana,diana@example.com,p9,Mouse,Electronics,15.0,2024-03-18
+u4,Diana,diana@example.com,p10,Donut,Bakery,1.25,2024-03-19
+u5,Elena,elena@example.com,p11,Apple,Fruit,1.1,2024-03-20
+u5,Elena,elena@example.com,p12,Lotion,Personal Care,6.0,2024-03-21
+u6,Faisal,faisal@example.com,p13,Cheese,Dairy,2.5,2024-03-22
+u6,Faisal,faisal@example.com,p14,Keyboard,Electronics,29.0,2024-03-23
+u7,Gary,gary@example.com,p15,Cake,Bakery,3.5,2024-03-24
+u7,Gary,gary@example.com,p16,Juice,Beverages,2.0,2024-03-25
+u8,Hina,hina@example.com,p17,Chips,Snacks,1.0,2024-03-26
+u8,Hina,hina@example.com,p18,Surface Cleaner,Cleaning Supplies,3.5,2024-03-27
+u9,Imran,imran@example.com,p19,Mango,Fruit,1.5,2024-03-28
+u9,Imran,imran@example.com,p20,Conditioner,Personal Care,4.0,2024-03-29
+u10,Jenny,jenny@example.com,p21,Butter,Dairy,2.2,2024-03-30
+u10,Jenny,jenny@example.com,p22,Monitor,Electronics,120.0,2024-03-31
+u11,Kiran,kiran@example.com,p23,Bagel,Bakery,1.5,2024-04-01
+u11,Kiran,kiran@example.com,p24,Soda,Beverages,1.0,2024-04-02
+u12,Liam,liam@example.com,p25,Crackers,Snacks,1.2,2024-04-03
+u12,Liam,liam@example.com,p26,Bleach,Cleaning Supplies,3.0,2024-04-04
+u13,Maya,maya@example.com,p27,Pineapple,Fruit,2.0,2024-04-05
+u13,Maya,maya@example.com,p28,Face Wash,Personal Care,4.7,2024-04-06
+u14,Nina,nina@example.com,p29,Cream,Dairy,2.3,2024-04-07
+u14,Nina,nina@example.com,p30,Speaker,Electronics,45.0,2024-04-08
+u15,Omar,omar@example.com,p31,Roll,Bakery,1.3,2024-04-09
+u15,Omar,omar@example.com,p32,Water,Beverages,0.9,2024-04-10
+u16,Paul,paul@example.com,p33,Popcorn,Snacks,1.1,2024-04-11
+u16,Paul,paul@example.com,p34,Toilet Cleaner,Cleaning Supplies,3.8,2024-04-12
+u17,Quinn,quinn@example.com,p35,Grapes,Fruit,1.4,2024-04-13
+u17,Quinn,quinn@example.com,p36,Hair Gel,Personal Care,3.9,2024-04-14
+u18,Rita,rita@example.com,p37,Milkshake,Dairy,2.7,2024-04-15
+u18,Rita,rita@example.com,p38,Phone Charger,Electronics,19.0,2024-04-16
+u19,Steve,steve@example.com,p39,Muffin,Bakery,1.8,2024-04-17
+u19,Steve,steve@example.com,p40,Tea,Beverages,1.3,2024-04-18
+u20,Tina,tina@example.com,p41,Nuts,Snacks,2.0,2024-04-19
+u20,Tina,tina@example.com,p42,Floor Cleaner,Cleaning Supplies,4.2,2024-04-20
